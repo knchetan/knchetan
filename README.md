@@ -2,7 +2,7 @@
 
 - 🎯 **Aspiring Full-Stack Developer | Electronics & Communication Engineer**  
 - 🚀 Passionate about building scalable applications and leveraging cutting-edge technologies  
-- 📊 Enthusiastic about Data Science, Machine Learning, and Hardware Security
+- 📊 Enthusiastic about Software Development, Data Science, Machine Learning, and Hardware Security
 
 ---
 
