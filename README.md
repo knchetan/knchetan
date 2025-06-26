@@ -19,7 +19,6 @@
 
 - 💻 Interning at Ideas2IT Technologies working on full-stack development with Java, React.js, and AWS  
 - 🔬 Researching hardware security techniques and hybrid PUF architectures  
-- 🎯 Building projects in Machine Learning and Deep Learning with TensorFlow and PyTorch  
 - 📖 Continuously improving skills in cloud computing, data analytics, and software design  
 
 ---
