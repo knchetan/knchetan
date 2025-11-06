@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-- 🎓 **Background:** Pursuing B.Tech in Electronics & Communication Engineering with solid experience in software development and hardware security  
+- 🎓 **Background:** Pursued B.Tech in Electronics & Communication Engineering with solid experience in software development and hardware security  
 - 🛠️ **Skills:** Java/J2EE, Spring Boot, ReactJS, Python, SQL, HTML5/CSS3/Javascript, MATLAB, SystemVerilog/Verilog, C++, Embedded C  
 - 📚 **Expertise:** Full-stack development, API design, Agile methodologies, Simulation and Hardware security (PUF design)  
 - 🔍 **Currently Exploring:** Advanced Machine Learning, AI, Cloud Technologies, and Infrastructure Data Transparency Platforms  
@@ -17,7 +17,7 @@
 
 ### 🌟 What I'm Up To
 
-- 💻 Interning at Ideas2IT Technologies working on full-stack development with Java, ReactJS, and AWS  
+- 💻 Interning at Ideas2IT Technologies, working on full-stack development with Java, ReactJS, and AWS  
 - 🔬 Researching hardware security techniques and hybrid PUF architectures  
 - 📖 Continuously improving skills in cloud computing, data analytics, and software design  
 
